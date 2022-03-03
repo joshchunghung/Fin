@@ -1,0 +1,11 @@
+1. the rainfall data is from CWB
+https://e-service.cwb.gov.tw/HistoryDataQuery/
+
+2. 2011-*csv files are sorted by month.
+  rainfall_2021.csv is all data until 2021-11-29.
+
+3. station.txt is the rainfall station information which named Xinyi.
+  This station is on the top floor of the Taipei city government building.
+
+4. cwbrain_getdata.ipynb is the python program used to collect data and draw the png file.
+ the juputer-notebook is needed if you want to edit the file.
